@@ -21,7 +21,7 @@ import fr.uga.pddl4j.planners.htn.stn.PFD;
 import fr.uga.pddl4j.planners.statespace.FF;
 import fr.uga.pddl4j.test.Tools;
 
-import fr.uga.pddl4j.test.planners.statespace.FFTest;
+//import fr.uga.pddl4j.test.planners.statespace.FFTest;
 import org.apache.logging.log4j.Level;
 import org.junit.Assert;
 import org.junit.Before;
