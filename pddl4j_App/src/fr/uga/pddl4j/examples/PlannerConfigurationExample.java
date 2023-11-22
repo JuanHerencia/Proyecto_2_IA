@@ -40,7 +40,7 @@ public class PlannerConfigurationExample {
     public static void main(String[] args) {
 
         // The path to the benchmarks directory
-        final String benchmarks = "src/test/resources/benchmarks/pddl/ipc2002/depots/strips-automatic/";
+        final String benchmarks = "src\\test\\resources\\benchmarks\\pddl\\ipc2002\\depots\\strips-automatic\\";
 
         // Gets the default configuration from the planner
         fr.uga.pddl4j.planners.PlannerConfiguration config = HSP.getDefaultConfiguration();
