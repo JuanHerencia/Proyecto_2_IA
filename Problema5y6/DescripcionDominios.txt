@@ -1,0 +1,5 @@
+Barman:
+En este dominio hay un robot barman que manipula dispensadores de bebidas, vasos y un shaker. El objetivo es encontrar un plan de acciones para servir el conjunto deseado de bebidas. En este dominio la eliminación de acciones codifica conocimiento relevante ya que las manos del robot sólo pueden agarrar un objeto a la vez y ya que los vasos necesitan estar vacíos y limpios para ser llenados.
+
+Airport:
+Los planes deben controlar el tráfico terrestre en los aeropuertos. Estos escenarios fueron generados exportando situaciones de tráfico durante simulaciones del simulador de aeropuertos Astras. Los escenarios más grandes fueron situaciones reales del aeropuerto de Munich.
