@@ -53,9 +53,9 @@
 )
  (:goal
   (and
-     (contains shot1 cocktail2)
-     (contains shot2 cocktail4)
-     (contains shot3 cocktail3)
+     ;;(contains shot1 cocktail2)
+     ;;(contains shot2 cocktail4)
+     ;;(contains shot3 cocktail3)
      (contains shot4 cocktail5)
      (contains shot5 cocktail1)
 )))

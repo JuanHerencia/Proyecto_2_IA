@@ -179,7 +179,7 @@ public final class FF extends AbstractStateSpacePlanner  {
             if (exitCode == 1) {
                 LOGGER.fatal(cmd.getUsageMessage());
             }
-            System.exit(exitCode);
+            //System.exit(exitCode);
         } catch (Throwable e) {
             LOGGER.fatal(e.getMessage());
         }

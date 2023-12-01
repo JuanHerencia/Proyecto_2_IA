@@ -48,8 +48,10 @@
 )
  (:goal
   (and
-     (contains shot1 cocktail2)
-     (contains shot2 cocktail3)
+     ;;(contains shot1 cocktail2)
+     ;;(contains shot2 cocktail3)
      (contains shot3 cocktail4)
      (contains shot4 cocktail1)
-)))
+  )
+ )
+)
